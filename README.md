@@ -77,7 +77,7 @@ turing-simulator/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/PauloVictor21/SimuladorTuring.git
+git clone https://github.com/PauloVictor21/Simulador-Turing.git
 cd Simulador-Turing
 ```
 
